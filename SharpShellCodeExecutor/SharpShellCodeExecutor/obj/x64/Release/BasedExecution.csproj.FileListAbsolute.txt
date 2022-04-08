@@ -1,0 +1,8 @@
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\obj\x64\Release\BasedExecution.csproj.AssemblyReference.cache
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\obj\x64\Release\BasedExecution.csproj.SuggestedBindingRedirects.cache
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\obj\x64\Release\BasedExecution.csproj.CoreCompileInputs.cache
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\bin\x64\Release\ShellCodeExecutor.exe.config
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\bin\x64\Release\ShellCodeExecutor.exe
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\bin\x64\Release\ShellCodeExecutor.pdb
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\obj\x64\Release\ShellCodeExecutor.exe
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\obj\x64\Release\ShellCodeExecutor.pdb

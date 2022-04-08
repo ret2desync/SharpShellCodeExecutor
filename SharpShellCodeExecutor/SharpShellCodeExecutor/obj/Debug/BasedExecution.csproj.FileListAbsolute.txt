@@ -1,0 +1,8 @@
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\bin\Debug\BasedExecution.exe.config
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\bin\Debug\BasedExecution.exe
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\bin\Debug\BasedExecution.pdb
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\obj\Debug\BasedExecution.csproj.AssemblyReference.cache
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\obj\Debug\BasedExecution.csproj.SuggestedBindingRedirects.cache
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\obj\Debug\BasedExecution.csproj.CoreCompileInputs.cache
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\obj\Debug\BasedExecution.exe
+C:\Users\caellij\source\repos\BasedExecution\BasedExecution\obj\Debug\BasedExecution.pdb

@@ -1,0 +1,8 @@
+C:\Users\caellij\Tools\CustomScripts\RetGits\SharpShellCodeExecutor\SharpShellCodeExecutor\SharpShellCodeExecutor\bin\x64\Release\ShellCodeExecutor.exe.config
+C:\Users\caellij\Tools\CustomScripts\RetGits\SharpShellCodeExecutor\SharpShellCodeExecutor\SharpShellCodeExecutor\bin\x64\Release\ShellCodeExecutor.exe
+C:\Users\caellij\Tools\CustomScripts\RetGits\SharpShellCodeExecutor\SharpShellCodeExecutor\SharpShellCodeExecutor\bin\x64\Release\ShellCodeExecutor.pdb
+C:\Users\caellij\Tools\CustomScripts\RetGits\SharpShellCodeExecutor\SharpShellCodeExecutor\SharpShellCodeExecutor\obj\x64\Release\SharpShellCodeExecutor.csproj.AssemblyReference.cache
+C:\Users\caellij\Tools\CustomScripts\RetGits\SharpShellCodeExecutor\SharpShellCodeExecutor\SharpShellCodeExecutor\obj\x64\Release\SharpShellCodeExecutor.csproj.SuggestedBindingRedirects.cache
+C:\Users\caellij\Tools\CustomScripts\RetGits\SharpShellCodeExecutor\SharpShellCodeExecutor\SharpShellCodeExecutor\obj\x64\Release\SharpShellCodeExecutor.csproj.CoreCompileInputs.cache
+C:\Users\caellij\Tools\CustomScripts\RetGits\SharpShellCodeExecutor\SharpShellCodeExecutor\SharpShellCodeExecutor\obj\x64\Release\ShellCodeExecutor.exe
+C:\Users\caellij\Tools\CustomScripts\RetGits\SharpShellCodeExecutor\SharpShellCodeExecutor\SharpShellCodeExecutor\obj\x64\Release\ShellCodeExecutor.pdb
