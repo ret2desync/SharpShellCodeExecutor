@@ -110,7 +110,7 @@ namespace ShellCodeExecutor
                         return;
                 }
             }
-            Console.WriteLine("[+] Using selected Allocation " + allocType + ", Write Method " + writeMethod + ", Shellcode Exexution " + shellCodeRunner.ToString());
+            Console.WriteLine("[+] Using selected Allocation " + allocType + ", Write Method " + writeMethod + ", Shellcode Execution " + shellCodeRunner.ToString());
             Console.WriteLine("[+] Allocating Memory");
             IntPtr rwxMemory = MemoryAllocator.AllocateMemory((uint)shellCode.Length, allocType);
             Console.WriteLine("[+] Writing Shellcode to Memory");
