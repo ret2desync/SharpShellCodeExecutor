@@ -22,7 +22,7 @@ Then use Visual Studio to build the project.
 
 ## How to run
 
-Run the executeable and optionally specify the following arguments to specify the memory allocation, write and execution method.
+Run the executeable and optionally specify the following arguments to specify the memory allocation, write, and execution method.
 ```
 ShellCodeExecutor.exe -h
 ShellCodeExecutor.exe: Executes shellcode stored in shellCode variable within the same process, allows specifying the memory allocation, shellcode writing method and shellcode execution method
@@ -35,7 +35,7 @@ Arguments
 ## Example run
 ```
 ShellCodeExecutor.exe -a VirtualAllocEx -s QueueUserAPC -w RtlMoveMemory
-[+] Using selected Allocation VirtualAllocEx, Write Method RtlMoveMemory, Shellcode Exexution QueueUserAPC
+[+] Using selected Allocation VirtualAllocEx, Write Method RtlMoveMemory, Shellcode Execution QueueUserAPC
 [+] Allocating Memory
 [+] Writing Shellcode to Memory
 [+] Executing Memory
