@@ -40,3 +40,5 @@ ShellCodeExecutor.exe -a VirtualAllocEx -s QueueUserAPC -w RtlMoveMemory
 [+] Writing Shellcode to Memory
 [+] Executing Memory
 ```
+## Blog
+Heres a link to blog post explaining the techniques covered in this: <a href="https://ret2desync.github.io/introduction-csharp-pentesters-part1/">here</a>
